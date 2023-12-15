@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![count](https://count.getloli.com/get/@ChaosKo)  
 <!--
 **ChaosKo/ChaosKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
